@@ -1,0 +1,1 @@
+// alert(web3.eth.accounts);
